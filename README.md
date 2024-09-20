@@ -1,24 +1,4 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- topページで以下の画像を使用
+ - https://jp.freepik.com/free-photo/extreme-sports-ropejumping_1285498.htm#fromView=search&page=1&position=6&uuid=4317eb50-1f56-4668-b396-5b207beb34cd
+- aboutページで以下の画像を使用
+- <a href="https://jp.freepik.com/free-vector/flat-design-tweet-mockup_21251635.htm#fromView=search&page=1&position=8&uuid=1ddc0416-435c-4241-bd10-fdc262e2aa86">著作者：freepik</a>
