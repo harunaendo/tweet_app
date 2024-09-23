@@ -1,0 +1,10 @@
+
+<div class="main posts-index">
+  <div class="container">
+    <% @posts.each do |post| %>
+      <div class="posts-index-item">
+        <%= post.content %> <!--コンソールから入力したdbから取り出し-->
+      </div>
+    <% end %>
+  </div>
+</div>
