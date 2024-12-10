@@ -8,6 +8,9 @@ Rails.application.routes.draw do
   get "signup" => "users#new"
   get "users/index" => "users#index"
   get "users/:id" => "users#show"
+  get "users/:id/edit" => "users#edit"
+  post "users/:id/update" => "users#update"
+  
   get "posts/index" => "posts#index"
   get "posts/new" => "posts#new"
   get "posts/:id" => "posts#show"
